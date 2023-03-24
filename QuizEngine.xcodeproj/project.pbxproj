@@ -16,6 +16,8 @@
 		8FC2F27829C2D82600A4FEA0 /* QuizEngineUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC2F27729C2D82600A4FEA0 /* QuizEngineUITestsLaunchTests.swift */; };
 		8FC2F28529C2D83A00A4FEA0 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC2F28429C2D83A00A4FEA0 /* Flow.swift */; };
 		8FC2F28729C2D84200A4FEA0 /* FlowTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC2F28629C2D84200A4FEA0 /* FlowTest.swift */; };
+		8FDBAA7729CD4D3600AA0C01 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDBAA7629CD4D3600AA0C01 /* Result.swift */; };
+		8FDBAA7929CD4D5400AA0C01 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDBAA7829CD4D5400AA0C01 /* Router.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		8FC2F27729C2D82600A4FEA0 /* QuizEngineUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizEngineUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8FC2F28429C2D83A00A4FEA0 /* Flow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flow.swift; sourceTree = "<group>"; };
 		8FC2F28629C2D84200A4FEA0 /* FlowTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowTest.swift; sourceTree = "<group>"; };
+		8FDBAA7629CD4D3600AA0C01 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
+		8FDBAA7829CD4D5400AA0C01 /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				8FC2F26229C2D82600A4FEA0 /* QuizEngine.entitlements */,
 				8FC2F25F29C2D82600A4FEA0 /* Preview Content */,
 				8FC2F28429C2D83A00A4FEA0 /* Flow.swift */,
+				8FDBAA7629CD4D3600AA0C01 /* Result.swift */,
+				8FDBAA7829CD4D5400AA0C01 /* Router.swift */,
 			);
 			path = QuizEngine;
 			sourceTree = "<group>";
@@ -267,6 +273,8 @@
 			files = (
 				8FC2F28529C2D83A00A4FEA0 /* Flow.swift in Sources */,
 				8FC2F25C29C2D82500A4FEA0 /* ContentView.swift in Sources */,
+				8FDBAA7929CD4D5400AA0C01 /* Router.swift in Sources */,
+				8FDBAA7729CD4D3600AA0C01 /* Result.swift in Sources */,
 				8FC2F25A29C2D82500A4FEA0 /* QuizEngineApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
